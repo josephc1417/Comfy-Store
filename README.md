@@ -117,10 +117,7 @@ npm i axios@1.4.0 dayjs@1.11.9 @reduxjs/toolkit@1.9.5 @tanstack/react-query@4.32
 
 ```
 
-## Challenge (3) - Create All Pages
-
-- create pages directory
-- create all pages and export from index.js
+##all pages and export from index.js
 - About, Cart, Checkout, Error,
   HomeLayout, Landing, Login, Orders,
   Products, Register, SingleProduct
@@ -348,7 +345,10 @@ const Error = () => {
   );
 };
 export default Error;
-```
+``` Challenge (3) - Create All Pages
+
+- create pages directory
+- create 
 
 ## Challenge (6) - Input Field Component
 
